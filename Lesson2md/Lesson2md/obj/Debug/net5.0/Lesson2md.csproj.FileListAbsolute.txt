@@ -1,0 +1,16 @@
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.exe
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.deps.json
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.runtimeconfig.json
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.runtimeconfig.dev.json
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.dll
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\ref\Lesson2md.dll
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\bin\Debug\net5.0\Lesson2md.pdb
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.csproj.AssemblyReference.cache
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.AssemblyInfoInputs.cache
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.AssemblyInfo.cs
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.csproj.CoreCompileInputs.cache
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.dll
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\ref\Lesson2md.dll
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.pdb
+C:\Users\Omnit\source\repos\Lesson2md2\Lesson2md\Lesson2md\obj\Debug\net5.0\Lesson2md.genruntimeconfig.cache
